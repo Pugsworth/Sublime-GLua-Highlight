@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[--[[
+	${1}
+--]]]]></content>
+	<tabTrigger>--[[</tabTrigger>
+	<tabTrigger>-[</tabTrigger>
+	<scope>source.lua</scope>
+	<description>BlockComment</description>		
+</snippet>

@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[end
-${1}]]></content>
-	<tabTrigger>end</tabTrigger>
-	<scope>source.lua</scope>
-	<description>end</description>
-</snippet>
