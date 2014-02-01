@@ -4,5 +4,5 @@
 ${1/./-/g}----*/]]></content>
 	<tabTrigger>/*-</tabTrigger>
 	<scope>source.lua</scope>
-	<description>DynamicCommentBlock</description>
+	<description>CDynamicBlockComment</description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[timer.Create("${1:ID}", ${2:Delay}, ${3:Reps}, ${4:function()
-	
+	${5:-- code}
 end}]]></content>
 <tabTrigger>timer.Create</tabTrigger>
 	<scope>source.lua</scope>
